@@ -7,7 +7,7 @@ LONG_DESCRIPTION = 'This proxy enables better budgeting and cost management for 
                    'https://github.com/tomiwa123/openai-proxy-python'
 
 # Setting up
-setup(
+setup(pip install --upgrade openai_proxy
     # the name must match the folder name 'openai_proxy'
     name="openai_proxy",
     version=VERSION,
